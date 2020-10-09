@@ -18,7 +18,7 @@
 - PayPal / credit card integration
 - Database seeder (products & users)
 
-![Image of Yaktocat](https://github.com/MaorRocky/eCommerce/blob/main/flow.png)
+![Image of flowchart](https://github.com/MaorRocky/eCommerce/blob/main/flow.png)
 
 ## Usage
 
