@@ -18,7 +18,7 @@
 - PayPal / credit card integration
 - Database seeder (products & users)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/MaorRocky/eCommerce/blob/main/flow.png)
 
 ## Usage
 
