@@ -31,6 +31,7 @@ userSchema.methods.matchPassword = async function (enteredPassword) {
   return await bcrypt.compare(enteredPassword, this.password);
 };
 
+//when creating a user, the given password will be hashed
 userSchema.pre('save', async function (next) {
   if (!this.isModified('password')) {
     next();
