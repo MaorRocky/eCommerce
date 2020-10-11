@@ -96,7 +96,8 @@ const PlaceOrderScreen = ({ history }) => {
                           </Link>
                         </Col>
                         <Col md={4}>
-                          {item.qty} x ${item.price} = ${item.qty * item.price}
+                          {item.qty} x {item.price}&#8362; =
+                          {item.qty * item.price}&#8362;
                         </Col>
                       </Row>
                     </ListGroup.Item>
